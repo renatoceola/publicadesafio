@@ -2,7 +2,7 @@
 
 COMO EXECUTAR PROGRAMA
 
-Baixe os 3 arquivos da 'main'.
+Baixe todos os arquivos da 'main'.
 
 Extraia o arquivo CRUD_SQLite.zip
 
